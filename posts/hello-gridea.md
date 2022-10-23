@@ -1,19 +1,17 @@
 ---
-title: Hello Gridea
-date: 2018-12-12
+title: 'Hello Gridea'
+date: 2018-12-12 00:00:00
 tags: [Gridea]
 published: true
 hideInList: false
 feature: /post-images/hello-gridea.png
+isTop: false
 ---
-👏  欢迎使用 **Gridea** ！  
-✍️  **Gridea** 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ... 
+👏  欢迎使用 **Gridea** ！... 
 
 <!-- more -->
 
-[Github](https://github.com/getgridea/gridea)  
-[Gridea 主页](https://gridea.dev/)  
-[示例网站](https://fehey.com/)
+[Github](https://github.com/getgridea/gridea)
 
 ## 特性👇
 📝  你可以使用最酷的 **Markdown** 语法，进行快速创作  
