@@ -1,5 +1,5 @@
 ---
-title: 'Hello Gridea'
+title: 'Welcome to Jade''s blog'
 date: 2018-12-12 00:00:00
 tags: [Gridea]
 published: true
