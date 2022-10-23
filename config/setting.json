@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "main",
+    "domain": "https://jade0230.github.io",
+    "email": "renjie0229@outlook.com",
+    "platform": "github",
+    "repository": "Jade0230.github.io",
+    "token": "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",
+    "username": "Jade0230"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
